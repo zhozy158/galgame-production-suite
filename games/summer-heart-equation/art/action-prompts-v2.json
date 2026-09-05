@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "workflow": "Use the approved base-neutral sprite as the identity reference, generate one changed pose, then remove only the connected bright-neutral/checkerboard background with tools/remove-generated-background.ps1. Never regenerate from text alone.",
+  "globalPrompt": "Japanese visual-novel character sprite, clean expressive anime line art, restrained two-step cel shading, matte skin, natural slim adult proportions, transparent-background-ready full body composition, same exact person and same exact clothing as the reference. Preserve face shape, bangs groups, accessory position, iris color, layered clothing, body proportions and color palette. No photorealism, no 3D render, no oil painting, no glossy skin, no western comic anatomy, no redesign, no extra accessories, no text or watermark.",
+  "assets": [
+    {
+      "id": "linxia-tuning-radio",
+      "reference": "assets/characters-v2/linxia/base-neutral.png",
+      "prompt": "Edit the referenced Lin Xia into a useful action sprite while keeping her identity and outfit exact. She wears the same star hairpin in the same viewer-right position, has the same long dark navy hair and amber-brown eyes, blue overshirt over cream inner top and dark high-waist lower garment. Three-quarter standing pose, calmly tuning a compact vintage portable radio with both hands, one hand on the tuning knob, focused gentle expression. Show the whole figure without cropping. Plain bright neutral background suitable for removal.",
+      "sourceOutput": "exec-5b32d948-7662-4751-abdb-3e5fbd641e02.png",
+      "candidate": "assets/candidates-v2/linxia/action-tuning-radio-rgb.png",
+      "approved": "assets/characters-v2/linxia/action-tuning-radio.png"
+    },
+    {
+      "id": "tangtao-offering-soda",
+      "reference": "assets/characters-v2/tangtao/base-neutral.png",
+      "prompt": "Edit the referenced Tang Tao into a useful action sprite while keeping her identity and outfit exact. Preserve the peach-pink short bob, mint hair clip in the same viewer-left position, green eyes, coral shirt, light beige hoodie and dark pants. Energetic three-quarter standing pose, extending one chilled peach ramune bottle toward the viewer, warm teasing smile, other hand relaxed near her hip. Full figure, no cropping. Plain bright neutral background suitable for removal.",
+      "sourceOutput": "exec-44f610e0-205d-412f-8c6f-56644ef5106f.png",
+      "candidate": "assets/candidates-v2/tangtao/action-offering-soda-rgb.png",
+      "approved": "assets/characters-v2/tangtao/action-offering-soda.png"
+    },
+    {
+      "id": "shenyue-holding-archive",
+      "reference": "assets/characters-v2/shenyue/base-neutral.png",
+      "prompt": "Edit the referenced Shen Yue into a useful action sprite while keeping her identity and outfit exact. Preserve muted silver-lavender long hair, the single small side braid only on viewer-right, violet eyes, lavender blouse/cardigan layering and long navy skirt. Reserved three-quarter standing pose, holding a dark archival ledger and several paper files against her chest, quiet attentive expression. Full figure, no cropping. Plain bright neutral background suitable for removal.",
+      "sourceOutput": "exec-997904a6-ef86-4ae3-82fd-1e53ae95453b.png",
+      "candidate": "assets/candidates-v2/shenyue/action-holding-archive-rgb.png",
+      "approved": "assets/characters-v2/shenyue/action-holding-archive.png"
+    }
+  ]
+}

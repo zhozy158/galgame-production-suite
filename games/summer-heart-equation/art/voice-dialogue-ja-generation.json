@@ -1,0 +1,1192 @@
+{
+  "generatedAt": "2026-09-05T16:53:00.697Z",
+  "model": "mimo-v2.5-tts-voiceclone",
+  "manifest": "art/voice-dialogue-ja.json",
+  "summary": {
+    "total": 131,
+    "completed": 131,
+    "skipped": 0,
+    "failed": 0
+  },
+  "lines": [
+    {
+      "id": "prologue__004",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/prologue__004.wav",
+      "duration": 11.68,
+      "responseId": "6418b07128b14b4aaf14327b5fe18d46",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__001",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__001.wav",
+      "duration": 8.96,
+      "responseId": "82d459b025d146b596b84e68be9d7427",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__004",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__004.wav",
+      "duration": 5.92,
+      "responseId": "7665854e9e444b428c1f3ccfefcf44bf",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__006",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__006.wav",
+      "duration": 12,
+      "responseId": "c54315fd7f4d4c0c8ffaa501541ee929",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__008",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__008.wav",
+      "duration": 4.8,
+      "responseId": "fcebdbccd0c9463bbccf31822038c12c",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__010",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__010.wav",
+      "duration": 9.6,
+      "responseId": "bb9a2a25d5f64540908a8182e52b2cd7",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__012",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__012.wav",
+      "duration": 3.04,
+      "responseId": "8defd657553f4a8a8307b19b5122bea8",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__015",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__015.wav",
+      "duration": 2.24,
+      "responseId": "5fead8043aa147ec95ac754df2e1d435",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__017",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__017.wav",
+      "duration": 9.44,
+      "responseId": "15429363b2bb4abf891ada0494d47d59",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__019",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__019.wav",
+      "duration": 15.68,
+      "responseId": "e9116d90d36c49fdb05f6d796bb7127d",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__022",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__022.wav",
+      "duration": 3.04,
+      "responseId": "687c6365a9c84ee3a7fa78f1eb55a14d",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__024",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__024.wav",
+      "duration": 7.84,
+      "responseId": "074eceded4bb4ae4b50c1e6d94346ce0",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__026",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__026.wav",
+      "duration": 6.4,
+      "responseId": "ae5c7a65aa654c9eb380198c0144497a",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "arrival__028",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/arrival__028.wav",
+      "duration": 7.84,
+      "responseId": "a2fc2a79c9844e8ab2b769386dbf5a63",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_linxia__001",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/meet_linxia__001.wav",
+      "duration": 2.72,
+      "responseId": "2fc7b4bfe28748e889d3bc2ed937eaa8",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_linxia__003",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/meet_linxia__003.wav",
+      "duration": 14.72,
+      "responseId": "63e6fc89b6c940d7b8d82110a4cd95e7",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_linxia__005",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/meet_linxia__005.wav",
+      "duration": 17.6,
+      "responseId": "eead21283abf466ba0c0e87f01ec4a66",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_linxia__007",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/meet_linxia__007.wav",
+      "duration": 6.72,
+      "responseId": "c830c5b4043140b986474e603fdef1f4",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_linxia__009",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/meet_linxia__009.wav",
+      "duration": 8.32,
+      "responseId": "cfe111ad83314b1d8d08fbd4bdb46e6f",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_linxia__011",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/meet_linxia__011.wav",
+      "duration": 5.44,
+      "responseId": "2c3bf7c6b2b94167a6afe13569dd62ba",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_tangtao__001",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/meet_tangtao__001.wav",
+      "duration": 11.36,
+      "responseId": "511f64e475c14f3989aefe671d5aabc7",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_tangtao__003",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/meet_tangtao__003.wav",
+      "duration": 5.28,
+      "responseId": "774b97c19f6d41afbba44712dcfdaa05",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_tangtao__005",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/meet_tangtao__005.wav",
+      "duration": 12,
+      "responseId": "f99b1d0229ca43b3a3bb04e25ab2e8d6",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_tangtao__007",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/meet_tangtao__007.wav",
+      "duration": 4.64,
+      "responseId": "fb9995eba05740099eda75ad3fe4789e",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "meet_tangtao__009",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/meet_tangtao__009.wav",
+      "duration": 12.8,
+      "responseId": "ee25fb432e8b42399f814bb33c494790",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_tangtao__011",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/meet_tangtao__011.wav",
+      "duration": 6.72,
+      "responseId": "99a74c7eed684ad9819a9f0331f95804",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_shenyue__001",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/meet_shenyue__001.wav",
+      "duration": 10.24,
+      "responseId": "b358b1edfd5b41a5b88c4f728da7f600",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "meet_shenyue__003",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/meet_shenyue__003.wav",
+      "duration": 11.04,
+      "responseId": "12a0bd0353d741bc9c08043b6664b39b",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_shenyue__006",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/meet_shenyue__006.wav",
+      "duration": 13.6,
+      "responseId": "c25297cdb8c84b66b7346fb7b155b24e",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_shenyue__008",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/meet_shenyue__008.wav",
+      "duration": 13.12,
+      "responseId": "cb1a9ed44be340e09fafbb5ffbcaf3cd",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_shenyue__010",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/meet_shenyue__010.wav",
+      "duration": 11.84,
+      "responseId": "b8e02f77ecae4b31850f4fcfa2d5ccce",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "meet_shenyue__012",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/meet_shenyue__012.wav",
+      "duration": 9.6,
+      "responseId": "77bdf7e4e1fc4450ad0532081596dbfe",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__002",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/workshop__002.wav",
+      "duration": 9.12,
+      "responseId": "162d08570f47492a91d7e5af34623a1b",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "workshop__003",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__003.wav",
+      "duration": 6.08,
+      "responseId": "c4ac989c528242b3afdd455f3356a848",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__004",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/workshop__004.wav",
+      "duration": 5.76,
+      "responseId": "e4426ad0bb8a4593afd1ed990d287afa",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "workshop__005",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/workshop__005.wav",
+      "duration": 8,
+      "responseId": "afb07b5e28d24a5c86e95cefb30850cf",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__008",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__008.wav",
+      "duration": 6.88,
+      "responseId": "4ab25dce8f2b47149066b1abf24a85d2",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__009",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/workshop__009.wav",
+      "duration": 9.28,
+      "responseId": "29386edf81f94bc396236135310b5641",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__010",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/workshop__010.wav",
+      "duration": 6.24,
+      "responseId": "c48df83a74c54238b8ae2883b90c1621",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__012",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__012.wav",
+      "duration": 9.28,
+      "responseId": "ac5e61e3bb1b44a68b629b74cd65f940",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__015",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__015.wav",
+      "duration": 7.2,
+      "responseId": "79b676849e81496ea8160f2c964b5a4d",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__017",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/workshop__017.wav",
+      "duration": 4.48,
+      "responseId": "40778c539fb34b5f84ec877ce58bd555",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__019",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/workshop__019.wav",
+      "duration": 7.68,
+      "responseId": "05a3b52ae13242f28b05afcea3c8a98c",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__020",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__020.wav",
+      "duration": 10.08,
+      "responseId": "2ec64ad7f9264744bea60f7eb5cb8057",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__022",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__022.wav",
+      "duration": 3.04,
+      "responseId": "2e27805c1f7e4ebda9958083c6419381",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__023",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/workshop__023.wav",
+      "duration": 3.68,
+      "responseId": "1bd9a5fa7b7540fb8c6673ae3ec785fd",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__024",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/workshop__024.wav",
+      "duration": 5.28,
+      "responseId": "94416f08a3324824bfbfc5b01fb28a43",
+      "transcript": null,
+      "attempts": 3
+    },
+    {
+      "id": "workshop__027",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__027.wav",
+      "duration": 6.4,
+      "responseId": "7aa782bd846a4540b474b915e9eab877",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__029",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/workshop__029.wav",
+      "duration": 7.84,
+      "responseId": "f726b1fcdfba43ab972602433a631b62",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__030",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/workshop__030.wav",
+      "duration": 6.88,
+      "responseId": "4b428251be95419e9f7b3856772aa634",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "workshop__031",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/workshop__031.wav",
+      "duration": 8.8,
+      "responseId": "6f2915ceb442493b8366468095340c83",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__003",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__003.wav",
+      "duration": 7.68,
+      "responseId": "b942f35ba3164ffd8244e7d375053141",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__004",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/signal__004.wav",
+      "duration": 8,
+      "responseId": "e1cd74b705d5455cb4743560cc3ba988",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__005",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/signal__005.wav",
+      "duration": 5.6,
+      "responseId": "7aa755d993c5432ba2eb71eaf3a6aa63",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__006",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__006.wav",
+      "duration": 3.84,
+      "responseId": "aa90bea5485b4b7aafc522c3e0613e94",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__009",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/signal__009.wav",
+      "duration": 7.52,
+      "responseId": "81102b5a7f344c6399352bae1a28b54e",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__011",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/signal__011.wav",
+      "duration": 13.6,
+      "responseId": "4152737146a047f3ac73f789304ceb32",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__013",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/signal__013.wav",
+      "duration": 11.04,
+      "responseId": "41599d0e44384e91b0393830eaa2a914",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__016",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__016.wav",
+      "duration": 7.84,
+      "responseId": "bd69b0ea020d47968e301f7f9284e6cb",
+      "transcript": null,
+      "attempts": 3
+    },
+    {
+      "id": "signal__018",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__018.wav",
+      "duration": 5.28,
+      "responseId": "9a0b85fb82d44037a86b9381d6a9de13",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__020",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__020.wav",
+      "duration": 9.12,
+      "responseId": "c4da52b5a62043f18e5c94be096cc447",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__022",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__022.wav",
+      "duration": 1.12,
+      "responseId": "8e03ecfb0fe747f987d8c049e5703e63",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__024",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__024.wav",
+      "duration": 4.32,
+      "responseId": "b140de81148a41b88c24ac70ed2550cd",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__026",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/signal__026.wav",
+      "duration": 6.08,
+      "responseId": "58eb13b56b5e4328b659390224a93d85",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__028",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/signal__028.wav",
+      "duration": 15.52,
+      "responseId": "a8e2e070f9574f10b4246a8ccdd68ed5",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "signal__030",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/signal__030.wav",
+      "duration": 20.32,
+      "responseId": "ff82c57ecbc64d098712a7b219209bb5",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__033",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/signal__033.wav",
+      "duration": 6.4,
+      "responseId": "ba1ce0ff47e94f0fad4ddf3d79438613",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__034",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__034.wav",
+      "duration": 10.72,
+      "responseId": "52eabb0bddea4cd99f13675672311e97",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "signal__037",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/signal__037.wav",
+      "duration": 3.84,
+      "responseId": "62d78b3633e944a18595a6576978e2b9",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__039",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/signal__039.wav",
+      "duration": 8.48,
+      "responseId": "9b9a783d384d487cb3c462a32af14312",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__040",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/signal__040.wav",
+      "duration": 8.48,
+      "responseId": "5f9e8fdb6a214bd3a5ae751bcd616009",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "signal__041",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/signal__041.wav",
+      "duration": 5.92,
+      "responseId": "dbe59d3c52c74b03a1239d8f4f1565d1",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__002",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__002.wav",
+      "duration": 11.68,
+      "responseId": "3b878e7acbeb4cccaa30e6bff0d39406",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__003",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__003.wav",
+      "duration": 9.76,
+      "responseId": "f4e59ae512cf43df8ffb30a73109e517",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__004",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__004.wav",
+      "duration": 9.76,
+      "responseId": "cb1ac8bf693d45879bb29a3012b3b834",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__005",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__005.wav",
+      "duration": 7.68,
+      "responseId": "716b3773c3a043349837488685724053",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__006",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__006.wav",
+      "duration": 2.08,
+      "responseId": "0440ea78f6c24fdd8fa709d6de253ff4",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__007",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__007.wav",
+      "duration": 2.88,
+      "responseId": "c6d1727cdd9e4a90a53744091d9ab2c0",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__011",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__011.wav",
+      "duration": 11.84,
+      "responseId": "4431646282e74cf79d264dc27207e7dc",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__012",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__012.wav",
+      "duration": 9.44,
+      "responseId": "2f8bc72c9f2147a4a7c7e16f372f3d24",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__013",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__013.wav",
+      "duration": 9.12,
+      "responseId": "47fc5b69e41049fe865f49ad8cbc1858",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__015",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__015.wav",
+      "duration": 10.08,
+      "responseId": "e82f7487b6e34d0e901280d447ec099a",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__017",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__017.wav",
+      "duration": 9.44,
+      "responseId": "07f3b85b44524fd587c57b760899b875",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__018",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__018.wav",
+      "duration": 24.48,
+      "responseId": "2600852d275e446ea14729870428581b",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__019",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__019.wav",
+      "duration": 3.52,
+      "responseId": "42a8e32c7b0b43f3bdd6242514c6221f",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__020",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__020.wav",
+      "duration": 8.64,
+      "responseId": "6756578e6cd94a4db93b1f63341e3bb6",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__023",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__023.wav",
+      "duration": 10.72,
+      "responseId": "7b13177d18db44babe03b130812a01aa",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "quiet_night__025",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__025.wav",
+      "duration": 8.16,
+      "responseId": "8817342e167c48d4bfcf5cf3134090de",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__028",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__028.wav",
+      "duration": 9.28,
+      "responseId": "92d9b529726548baba6c76406582af36",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__029",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__029.wav",
+      "duration": 11.84,
+      "responseId": "968f1574a5ab4b8ab8fdaa684888ee40",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__030",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__030.wav",
+      "duration": 13.12,
+      "responseId": "28f0ede7c1b24b438ce5ede646fcf78c",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__033",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__033.wav",
+      "duration": 7.68,
+      "responseId": "960414b474e64829ad2852181be772e3",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__034",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__034.wav",
+      "duration": 10.4,
+      "responseId": "75033afb250d42afa48e2ff13451cc7c",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__036",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__036.wav",
+      "duration": 4.8,
+      "responseId": "6093fe2de17346d4ba43e6e955ac9859",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__039",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__039.wav",
+      "duration": 8.32,
+      "responseId": "69b93613c5694be2a4d8ad240f87738b",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__040",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__040.wav",
+      "duration": 3.52,
+      "responseId": "15225d1c59bb4374af76e2062d809f98",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "quiet_night__041",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__041.wav",
+      "duration": 11.36,
+      "responseId": "0de7e075294b4e3d9c1e804dab9dfa21",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__044",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/quiet_night__044.wav",
+      "duration": 9.28,
+      "responseId": "9486b6ce44de412db84276e8a72ac9ca",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__045",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/quiet_night__045.wav",
+      "duration": 10.4,
+      "responseId": "3817d79158d44b82bd51b9097956b2e3",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "quiet_night__046",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/quiet_night__046.wav",
+      "duration": 11.84,
+      "responseId": "48eae754ee9141a293d3c31ab12c7bd1",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__002",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/storm__002.wav",
+      "duration": 12.64,
+      "responseId": "de1407d60c554839800de77eb4d3af30",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "storm__003",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/storm__003.wav",
+      "duration": 8.48,
+      "responseId": "de5ec27e610a4d1ab0c1fd71b5c9f92f",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__004",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/storm__004.wav",
+      "duration": 5.76,
+      "responseId": "6959a161d5924ed387db8612a566afb0",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__006",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/storm__006.wav",
+      "duration": 7.36,
+      "responseId": "02a06e8fcdfd43aeb794aea01ee13a35",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "storm__007",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/storm__007.wav",
+      "duration": 8.64,
+      "responseId": "d9c1ff0b48aa4d2cb467a3ad329c8589",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__008",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/storm__008.wav",
+      "duration": 6.72,
+      "responseId": "ce78d3961c314f3dba63c3ece51725da",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "storm__011",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/storm__011.wav",
+      "duration": 4.96,
+      "responseId": "25e361e4692d4ccf946f26b6504c63de",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__012",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/storm__012.wav",
+      "duration": 4.48,
+      "responseId": "3c35d32870f744d3b069ba73b1b1c94f",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__013",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/storm__013.wav",
+      "duration": 9.28,
+      "responseId": "09e1ec96bc8141a799187756cfb15af6",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__020",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/storm__020.wav",
+      "duration": 12.16,
+      "responseId": "4a4b8ff6b9c54640acd900d68ec82036",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__021",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/storm__021.wav",
+      "duration": 6.72,
+      "responseId": "59e61db456884a36b0b3fb59bf07b6d6",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__022",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/storm__022.wav",
+      "duration": 4.32,
+      "responseId": "819f2df54fd2434a8560705d017f592f",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__023",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/storm__023.wav",
+      "duration": 8.64,
+      "responseId": "5b17e4f8d21a4250b7c555d5abc13608",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "storm__026",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/storm__026.wav",
+      "duration": 7.52,
+      "responseId": "8c01571abef34254a35e16e6f6ede434",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_linxia__002",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/route_linxia__002.wav",
+      "duration": 14.08,
+      "responseId": "0551c8710a0c47e6ab11eac991206812",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_linxia__004",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/route_linxia__004.wav",
+      "duration": 14.88,
+      "responseId": "2fa3ddf7a6844fb2a7b1cc2be9256194",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_linxia__007",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/route_linxia__007.wav",
+      "duration": 14.4,
+      "responseId": "cc309773d6b64d929c212d19733025dd",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_linxia__009",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/route_linxia__009.wav",
+      "duration": 6.72,
+      "responseId": "4f2f9e2fe433490882be81f1f387a163",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "route_linxia__012",
+      "speaker": "linxia",
+      "output": "assets/audio/voice/ja/linxia/route_linxia__012.wav",
+      "duration": 7.52,
+      "responseId": "68fc91a3a1404864a2e621494169b920",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_tangtao__003",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/route_tangtao__003.wav",
+      "duration": 4.16,
+      "responseId": "9e69211b72f8463eb74f952770cb2f27",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "route_tangtao__006",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/route_tangtao__006.wav",
+      "duration": 14.88,
+      "responseId": "70687c9376344162ab54bcc452ae4ff8",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_tangtao__008",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/route_tangtao__008.wav",
+      "duration": 5.28,
+      "responseId": "7ee05ad3042e41d3813eb1214193c43f",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_tangtao__011",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/route_tangtao__011.wav",
+      "duration": 13.28,
+      "responseId": "66735c2fd8d84ae68bd2c91e535685b2",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_tangtao__013",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/route_tangtao__013.wav",
+      "duration": 10.56,
+      "responseId": "e442520f849b46e2bcc54820ae213c8a",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_tangtao__015",
+      "speaker": "tangtao",
+      "output": "assets/audio/voice/ja/tangtao/route_tangtao__015.wav",
+      "duration": 5.44,
+      "responseId": "79dfee0c786c481faa5008c234b46d92",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_shenyue__002",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/route_shenyue__002.wav",
+      "duration": 8,
+      "responseId": "0015419a1b174260ada02f20c5dd962e",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_shenyue__004",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/route_shenyue__004.wav",
+      "duration": 1.12,
+      "responseId": "3543e87c7cdf43f5840d8d93df5d7591",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_shenyue__007",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/route_shenyue__007.wav",
+      "duration": 17.6,
+      "responseId": "ddee571be8fa41eb934bf064d369577d",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "route_shenyue__009",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/route_shenyue__009.wav",
+      "duration": 7.84,
+      "responseId": "3c209b2714474dbf9a9d00e0ee28ab17",
+      "transcript": null,
+      "attempts": 2
+    },
+    {
+      "id": "route_shenyue__012",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/route_shenyue__012.wav",
+      "duration": 4.96,
+      "responseId": "2a7c903dcb154cffa67a4b283762fba2",
+      "transcript": null,
+      "attempts": 1
+    },
+    {
+      "id": "route_shenyue__014",
+      "speaker": "shenyue",
+      "output": "assets/audio/voice/ja/shenyue/route_shenyue__014.wav",
+      "duration": 5.76,
+      "responseId": "dd5b4e5e1a0241dfae5f019181d8159a",
+      "transcript": null,
+      "attempts": 1
+    }
+  ]
+}

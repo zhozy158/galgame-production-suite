@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Younger adult Japanese heroine voice audition V2. Explicitly avoids mature, maternal, husky and announcer-like delivery.",
+  "generationLog": "art/voice-tests-ja-youth-v2-generation.json",
+  "characters": [
+    {
+      "id": "linxia-v2",
+      "name": "林夏 V2",
+      "voiceDesign": "十八歳から二十歳くらいの若い成人女性の日本語アニメヒロイン声。透明で柔らかく、少し高めの明るい声。繊細で知的だが、成熟した女性の低音、母性的な響き、かすれ声、重い胸声、ニュースキャスターの口調は一切使わない。自然で現代的な標準日本語。感情を抑える時も、声そのものには少女から大人へ移る時期の瑞々しさがある。",
+      "samples": [
+        {
+          "id": "signal-sad-youth-v2",
+          "zh": "陆遥，如果你听见这段话，请在夏祭烟火升起以前，来海岸电台。",
+          "ja": "ルー・ヤオ、もしこのメッセージが聞こえたら、夏祭りの花火が上がる前に、海岸放送局へ来て。",
+          "direction": "大切な幼なじみに送る個人的な録音。若く透明な声で、静かな寂しさを含める。芝居を重くせず、語速は自然。名前の後だけ短く間を置く。",
+          "output": "assets/audio/voice-tests/ja-youth-v2/linxia/01-signal-sad.wav"
+        }
+      ]
+    },
+    {
+      "id": "tangtao-v2",
+      "name": "唐桃 V2",
+      "voiceDesign": "十八歳から二十歳くらいの若い成人女性の日本語アニメヒロイン声。明るく軽やかな中高音で、弾むような反応と瑞々しい笑顔が聞こえる。快活で少しツンデレだが、甲高い子供声にはしない。成熟した母性的な声、太い胸声、酒焼けした声、落ち着きすぎた接客口調、古風な女性口調は禁止。自然でテンポの良い現代日本語。",
+      "samples": [
+        {
+          "id": "station-welcome-youth-v2",
+          "zh": "陆——遥——！你要是敢说没看见我，我就把你的行李扔进海里！",
+          "ja": "ルー・ヤオー！　私に気づかなかったなんて言ったら、荷物ごと海に投げるからね！",
+          "direction": "駅の向こうから幼なじみを見つけ、再会の嬉しさが爆発する。冒頭は元気よく呼び、後半は笑いをこらえた軽快な脅し。若々しく速め、怒鳴り声を太くしない。",
+          "output": "assets/audio/voice-tests/ja-youth-v2/tangtao/01-station-welcome.wav"
+        }
+      ]
+    },
+    {
+      "id": "shenyue-v2",
+      "name": "沈月 V2",
+      "voiceDesign": "十八歳から二十歳くらいの若い成人女性の日本語アニメヒロイン声。細く澄んだ柔らかな中高音で、控えめだが瑞々しい。静かな文学少女のように言葉を慎重に選ぶが、老成した低音、母性的な包容力、かすれ、息の多すぎる囁き、朗読家やアナウンサーの発声は禁止。小さな感情の揺れが伝わる自然な標準日本語。",
+      "samples": [
+        {
+          "id": "archive-meeting-youth-v2",
+          "zh": "陆遥。登记表上写你会来，我还是不太相信。",
+          "ja": "ルー・ヤオ。名簿には、あなたが来ると書いてあった。でも、まだ少し信じられない。",
+          "direction": "資料館で思いがけず幼なじみと再会する。声量は控えめでも若く澄んだ響きを保つ。驚きと小さな嬉しさを隠しながら、自然な会話速度で話す。",
+          "output": "assets/audio/voice-tests/ja-youth-v2/shenyue/01-archive-meeting.wav"
+        }
+      ]
+    }
+  ]
+}

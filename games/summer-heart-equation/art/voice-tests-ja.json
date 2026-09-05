@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "purpose": "MiMo V2.5 TTS Japanese pronunciation and cross-emotion voice consistency audition. Chinese remains the on-screen script; Japanese is voice-only.",
+  "generationLog": "art/voice-tests-ja-generation.json",
+  "namePronunciation": {
+    "陆遥": "ルー・ヤオ"
+  },
+  "characters": [
+    {
+      "id": "linxia",
+      "name": "林夏",
+      "voiceDesign": "二十代前半の日本語女性声。落ち着いた透明感のある中低音で、知的かつ簡潔。感情を大げさにせず、抑制された息遣いの奥に優しさがある。アニメの無口な技術者ヒロインのようだが、幼すぎず自然な発声。標準的で明瞭な日本語。",
+      "samples": [
+        {
+          "id": "signal-sad",
+          "zh": "陆遥，如果你听见这段话，请在夏祭烟火升起以前，来海岸电台。",
+          "ja": "ルー・ヤオ、もしこのメッセージが聞こえたら、夏祭りの花火が上がる前に、海岸放送局へ来て。",
+          "direction": "海辺の古い放送局から、七年間返事を待っていた相手へ録音する。静かで切実、語尾にわずかな寂しさ。ゆっくりめで、名前の後に短く間を置く。",
+          "output": "assets/audio/voice-tests/ja/linxia/01-signal-sad.wav"
+        },
+        {
+          "id": "antenna-regret",
+          "zh": "不回复的人，再强的天线也没用。",
+          "ja": "返事をしてくれる人がいなければ、どんなに強いアンテナだって、意味はない。",
+          "direction": "過去への後悔を淡々と語る。責める調子ではなく、長く考え抜いた結論のように。『意味はない』の前で少し息を置く。",
+          "output": "assets/audio/voice-tests/ja/linxia/02-antenna-regret.wav"
+        },
+        {
+          "id": "ending-shy",
+          "zh": "确认收到。信号强度……超出量程。",
+          "ja": "受信を確認。信号強度は……測定範囲を、超えてる。",
+          "direction": "告白を受け取った直後。平静を装って技術用語で返すが、声は少し震え、後半だけ柔らかく照れている。",
+          "output": "assets/audio/voice-tests/ja/linxia/03-ending-shy.wav"
+        }
+      ]
+    },
+    {
+      "id": "tangtao",
+      "name": "唐桃",
+      "voiceDesign": "二十代前半の日本語女性声。明るく健康的で親しみやすい中高音。反応が速く、冗談と本音を軽快に行き来する。元気だが甲高すぎず、幼児的な萌え声にはしない。海辺の旅館を切り盛りする頼れる若い女性らしい自然な標準日本語。",
+      "samples": [
+        {
+          "id": "station-welcome",
+          "zh": "陆——遥——！你要是敢说没看见我，我就把你的行李扔进海里！",
+          "ja": "ルー・ヤオー！　私に気づかなかったなんて言ったら、荷物ごと海に投げるからね！",
+          "direction": "七年ぶりの相手を駅の端から大声で呼ぶ。怒っているふりをしながら、再会の喜びが隠しきれない。冒頭は遠くへ届く呼び声、後半は早口でいたずらっぽく。",
+          "output": "assets/audio/voice-tests/ja/tangtao/01-station-welcome.wav"
+        },
+        {
+          "id": "offer-soda",
+          "zh": "闭嘴，喝你的。",
+          "ja": "もう、黙って飲みなさい。",
+          "direction": "図星を突かれて照れ隠しに炭酸飲料を差し出す。短く、少し強気で、最後には親しさがにじむ。",
+          "output": "assets/audio/voice-tests/ja/tangtao/02-offer-soda.wav"
+        },
+        {
+          "id": "ending-hand",
+          "zh": "……现在。先负责牵手。",
+          "ja": "……今から。まずは、手をつなぐ係ね。",
+          "direction": "告白を受け入れた瞬間。最初は小さく息を整え、『今から』は真剣に、後半は照れた笑みを含ませる。",
+          "output": "assets/audio/voice-tests/ja/tangtao/03-ending-hand.wav"
+        }
+      ]
+    },
+    {
+      "id": "shenyue",
+      "name": "沈月",
+      "voiceDesign": "二十代前半の日本語女性声。静かで柔らかな中音、わずかに空気を含むが囁きすぎない。知的で観察力があり、言葉を選んでから話すため自然な間が多い。感情表現は小さいが繊細。幼くせず、資料館員らしい端正で明瞭な標準日本語。",
+      "samples": [
+        {
+          "id": "archive-meeting",
+          "zh": "陆遥。登记表上写你会来，我还是不太相信。",
+          "ja": "ルー・ヤオ。名簿には、あなたが来ると書いてあった。でも、まだ少し信じられない。",
+          "direction": "資料館で七年ぶりに会う。驚きを表に出しすぎず、名前を確かめるように呼ぶ。文の間に短い思考の間を置く。",
+          "output": "assets/audio/voice-tests/ja/shenyue/01-archive-meeting.wav"
+        },
+        {
+          "id": "meaning-of-silence",
+          "zh": "空白不是缺失，是有人坐在身边，不必急着说话。",
+          "ja": "空白は、欠けているという意味じゃない。誰かがそばにいて、急いで話さなくてもいい時間。",
+          "direction": "大切な気づきを静かに打ち明ける。前半は考えながら、後半は隣にいる相手へ安心を渡すように温かく。",
+          "output": "assets/audio/voice-tests/ja/shenyue/02-meaning-of-silence.wav"
+        },
+        {
+          "id": "ending-save",
+          "zh": "这句话需要永久保存。",
+          "ja": "その言葉は、永久保存が必要。",
+          "direction": "告白を受けて、ごく小さく微笑む。いつもの事務的な言い方を残しつつ、隠しきれない嬉しさを一滴だけ混ぜる。",
+          "output": "assets/audio/voice-tests/ja/shenyue/03-ending-save.wav"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Japanese school-romance heroine voice audition V3: youthful high-school-like vocal texture while keeping the characters adult and avoiding child voices.",
+  "generationLog": "art/voice-tests-ja-school-v3-generation.json",
+  "characters": [
+    {
+      "id": "linxia-v3",
+      "name": "林夏 V3",
+      "voiceDesign": "成人女性だが、声質は高校卒業間近の十八歳くらいに聞こえる日本語アニメヒロイン。細く澄んだ明るい高めの声で、息は軽く、発音は柔らかい。物静かな理系女子らしく感情は控えめでも、若さと初々しさが常に残る。成熟した女性の低音、母性的な響き、太い胸声、かすれ、色気、アナウンサー口調は禁止。幼女声や作りすぎた萌え声にはしない。",
+      "samples": [
+        {
+          "id": "ending-shy-school-v3",
+          "zh": "确认收到。信号强度……超出量程。",
+          "ja": "受信を確認。信号強度は……測定範囲を、超えてる。",
+          "direction": "好きな人から告白された直後。平静を装う高校生らしい初々しさ。前半は小さく真面目に、間を置いた後半は照れて声が少しだけ上ずる。余計な台詞や長い沈黙を追加しない。",
+          "output": "assets/audio/voice-tests/ja-school-v3/linxia/01-ending-shy.wav"
+        }
+      ]
+    },
+    {
+      "id": "tangtao-v3",
+      "name": "唐桃 V3",
+      "voiceDesign": "成人女性だが、声質は十八歳くらいの元気な女子高校生に聞こえる日本語アニメヒロイン。軽く弾む明るい高音、反応が速く、笑顔が声に出る。幼なじみ系の親しさと少しのツンデレ。成熟した女性の低音、母性的な包容力、太い声、かすれ、接客業の落ち着いた口調は禁止。幼女声や甲高すぎる作り声にはしない。",
+      "samples": [
+        {
+          "id": "offer-soda-school-v3",
+          "zh": "闭嘴，喝你的。",
+          "ja": "もう、黙って飲みなさい。",
+          "direction": "放課後に幼なじみへ飲み物を押しつけるような、軽快で初々しい照れ隠し。少し強気だが声の奥では笑っている。短く自然に、余計な台詞や笑い声を追加しない。",
+          "output": "assets/audio/voice-tests/ja-school-v3/tangtao/01-offer-soda.wav"
+        }
+      ]
+    },
+    {
+      "id": "shenyue-v3",
+      "name": "沈月 V3",
+      "voiceDesign": "成人女性だが、声質は十八歳くらいの静かな女子高校生に聞こえる日本語アニメヒロイン。細く透明なやや高めの声で、控えめな文学少女のような初々しさ。小さな感情が声の揺れに現れる。老成した低音、母性的な響き、太い胸声、かすれ、色気、朗読家やアナウンサーの口調は禁止。囁きすぎず、幼女声にもならない。",
+      "samples": [
+        {
+          "id": "ending-save-school-v3",
+          "zh": "这句话需要永久保存。",
+          "ja": "その言葉は、永久保存が必要。",
+          "direction": "好きな人の言葉を受け取って、恥ずかしそうに小さく微笑む。普段の真面目さを残しつつ、高校生らしい素直な嬉しさを一滴だけ混ぜる。一文だけを自然に読み、繰り返しや長い沈黙を追加しない。",
+          "output": "assets/audio/voice-tests/ja-school-v3/shenyue/01-ending-save.wav"
+        }
+      ]
+    }
+  ]
+}

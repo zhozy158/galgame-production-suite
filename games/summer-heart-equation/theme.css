@@ -1,0 +1,22 @@
+:root {
+  --ink: #f8f6ff;
+  --muted: #c7c5d4;
+  --navy: #10182e;
+  --glass: rgba(10, 15, 32, .83);
+  --pink: #ef9ab2;
+  --gold: #f4d49c;
+  --accent: #a8b9ff;
+}
+
+/* 作品专属覆盖写在这里。公共布局与默认场景背景来自 framework/styles/vn-core.css。 */
+.title-panel h1 {
+  letter-spacing: .03em;
+}
+
+.bg-seaside{--bg-layer:linear-gradient(180deg,#778fc9 0%,#efb9a8 44%,#77686d 45%,#1c3854 100%)}
+.bg-station{--bg-layer:linear-gradient(165deg,#f8c9ad 0 28%,#8fa0b3 29% 32%,#4d6072 33% 66%,#252d38 67%)}
+.bg-workshop{--bg-layer:radial-gradient(circle at 70% 22%,#f5cd8d 0 8%,transparent 25%),linear-gradient(120deg,#313b52,#6f584f 55%,#252938)}
+.bg-observatory{--bg-layer:radial-gradient(circle at 75% 20%,#fff9c4 0 1%,transparent 2%),radial-gradient(circle at 20% 25%,#ddd 0 1px,transparent 2px),linear-gradient(#101631,#293051 65%,#1a2133)}
+.bg-festival{--bg-layer:radial-gradient(circle at 20% 20%,#ffcf7a 0 2%,transparent 12%),radial-gradient(circle at 78% 30%,#f99 0 2%,transparent 13%),linear-gradient(155deg,#141c3d,#4a3452 60%,#18243a)}
+.bg-rain{--bg-layer:repeating-linear-gradient(105deg,rgba(255,255,255,.12) 0 1px,transparent 1px 20px),linear-gradient(#50657b,#243447)}
+.bg-dawn{--bg-layer:linear-gradient(#718bc2 0,#f2b8ad 48%,#e6d7c0 49%,#233d55 100%)}

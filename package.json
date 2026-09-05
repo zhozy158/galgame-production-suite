@@ -1,0 +1,13 @@
+{
+  "name": "galgame-production-suite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "多作品共用的零依赖 Galgame 引擎、美术规范、脚手架与校验工具",
+  "scripts": {
+    "start": "python -m http.server 4173",
+    "test": "node tools/validate-all.mjs",
+    "test:framework": "node tools/test-framework.mjs",
+    "validate-game": "node tools/validate-game.mjs",
+    "new-game": "node tools/new-game.mjs"
+  }
+}

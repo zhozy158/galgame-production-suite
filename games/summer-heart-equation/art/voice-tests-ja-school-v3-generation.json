@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-09-05T12:33:07.417Z",
+  "api": "https://api.xiaomimimo.com/v1",
+  "characters": [
+    {
+      "id": "linxia-v3",
+      "samples": [
+        {
+          "id": "ending-shy-school-v3",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-school-v3/linxia/01-ending-shy.wav",
+          "responseId": "3434c1f5cbcc46149a4c1fac0ad57210",
+          "transcript": null
+        }
+      ]
+    },
+    {
+      "id": "tangtao-v3",
+      "samples": [
+        {
+          "id": "offer-soda-school-v3",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-school-v3/tangtao/01-offer-soda.wav",
+          "responseId": "beb6dd98ed7147b78df1bbc9e33d59da",
+          "transcript": null
+        }
+      ]
+    },
+    {
+      "id": "shenyue-v3",
+      "samples": [
+        {
+          "id": "ending-save-school-v3",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-school-v3/shenyue/01-ending-save.wav",
+          "responseId": "ee21dca57735457ca803de9d64bdce92",
+          "transcript": null
+        }
+      ]
+    }
+  ]
+}

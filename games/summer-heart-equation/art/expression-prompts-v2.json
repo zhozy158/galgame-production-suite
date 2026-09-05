@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "generator": "OpenAI built-in image generation",
+  "mode": "reference image edit followed by deterministic facial-region compositing",
+  "date": "2026-09-05",
+  "masterRule": "Each edit uses only that character's approved base-neutral.png as identity and alignment master. Pixel-lock canvas, body, pose, face geometry, hair silhouette and bang groups, accessory, complete outfit construction, proportions, hands and crop. Preserve clean Japanese anime linework, flat cel color, one hard-edged shadow and matte skin. Change only eyebrows, eyelids/eyes and mouth; shy may add faint cheek blush. Avoid identity drift, glossy/oily skin, gradients, painterly or 3D rendering, Western anatomy, extra accessories, text and watermark.",
+  "transparencyRule": "Request real RGBA transparency. If the generator bakes a checkerboard or backdrop, never ship it directly: composite only the face ellipses onto the approved transparent master with tools/compose-expression.ps1. Final alpha and every non-face pixel come from the master.",
+  "characters": {
+    "linxia": {
+      "master": "assets/characters-v2/linxia/base-neutral.png",
+      "composeRegions": "500,245,135,65;500,327,60,35",
+      "status": "approved-complete",
+      "expressions": {
+        "smile": {
+          "promptDelta": "Small restrained genuinely warm closed-mouth smile; mouth corners slightly raised, amber-brown eyes subtly softened, eyebrows minimally relaxed; mature quiet affection.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-caff2eac-49dd-4144-9537-54d658eee36c.png",
+          "candidate": "assets/candidates-v2/linxia/smile-rgb.png",
+          "approved": "assets/characters-v2/linxia/smile.png"
+        },
+        "sad": {
+          "promptDelta": "Quiet sadness and restrained worry; brows slope upward slightly toward center, eyes moist and vulnerable without tears, eyelids subtly lower, lips form a tiny tense downward curve; held-in emotion.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-97fa0294-e93d-4c17-9714-b7de38eec0eb.png",
+          "candidate": "assets/candidates-v2/linxia/sad-rgb.png",
+          "approved": "assets/characters-v2/linxia/sad.png"
+        },
+        "angry": {
+          "promptDelta": "Firm controlled irritation; brows slightly inward and lower, direct focused amber-brown gaze, subtly narrowed lids and a small flat closed mouth; technically serious, mildly annoyed, not furious.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-9a996b08-687f-4f3f-a20d-0011c0bcc2aa.png",
+          "candidate": "assets/candidates-v2/linxia/angry-rgb.png",
+          "approved": "assets/characters-v2/linxia/angry.png"
+        },
+        "surprised": {
+          "promptDelta": "Restrained surprise; eyes a little wider while preserving design and color, eyebrows slightly lifted, mouth only slightly open in a soft small oval; believable unexpected-signal reaction, not comedy.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-e68ed33b-449e-45f4-a57f-6a6036234b57.png",
+          "candidate": "assets/candidates-v2/linxia/surprised-rgb.png",
+          "approved": "assets/characters-v2/linxia/surprised.png"
+        },
+        "shy": {
+          "promptDelta": "Quiet romantic embarrassment; faint low-saturation upper-cheek blush, eyes glance slightly aside without redesign, softened lids, brows gently raised near center and a tiny uncertain closed-mouth smile.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-34bd86fd-3985-44db-9a75-b1c8ae2c5191.png",
+          "candidate": "assets/candidates-v2/linxia/shy-rgb.png",
+          "approved": "assets/characters-v2/linxia/shy.png"
+        }
+      }
+    },
+    "tangtao": {
+      "master": "assets/characters-v2/tangtao/base-neutral.png",
+      "composeRegions": "490,245,125,60;480,325,65,40",
+      "status": "approved-complete",
+      "expressions": {
+        "smile": {
+          "promptDelta": "Bright genuine smile; leaf-green eyes close into gentle upward arcs, brows relax and mouth becomes a slightly broader simple open smile; warm childhood-friend energy without chibi comedy.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-6ea8d177-7471-4898-b517-9f5da00a770d.png",
+          "candidate": "assets/candidates-v2/tangtao/smile-rgb.png",
+          "approved": "assets/characters-v2/tangtao/smile.png"
+        },
+        "sad": {
+          "promptDelta": "Vulnerable sadness hidden behind energy; eyes slightly downward, softened upper lids, brows rising toward center and a small closed uneven mouth; faint moisture but no tears.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-61c7cc65-62c3-4909-adfa-fe2b2a39e581.png",
+          "candidate": "assets/candidates-v2/tangtao/sad-rgb.png",
+          "approved": "assets/characters-v2/tangtao/sad.png"
+        },
+        "angry": {
+          "promptDelta": "Mock-annoyed determination; direct leaf-green gaze, brows slightly lower and inward, tiny believable cheek puff and compact closed pout; energetic scolding without hostility.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-7fa20cef-6f48-418b-bce9-4e1e4cdcfab7.png",
+          "candidate": "assets/candidates-v2/tangtao/angry-rgb.png",
+          "approved": "assets/characters-v2/tangtao/angry.png"
+        },
+        "surprised": {
+          "promptDelta": "Lively believable surprise; eyes slightly wider while preserving shape and green iris design, brows raised and a small rounded open mouth; no chibi shock.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-9993ba14-7b28-4fe9-983f-462c5d93a2fe.png",
+          "candidate": "assets/candidates-v2/tangtao/surprised-rgb.png",
+          "approved": "assets/characters-v2/tangtao/surprised.png"
+        },
+        "shy": {
+          "promptDelta": "Flustered romantic shyness; low-saturation upper-cheek blush, eyes glance slightly sideways, brows lift near center and lips close into a small embarrassed smile.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-3032c72d-fdde-438a-9724-4cf6c58a90c8.png",
+          "candidate": "assets/candidates-v2/tangtao/shy-rgb.png",
+          "approved": "assets/characters-v2/tangtao/shy.png"
+        }
+      }
+    },
+    "shenyue": {
+      "master": "assets/characters-v2/shenyue/base-neutral.png",
+      "composeRegions": "470,250,125,60;470,335,65,35",
+      "status": "approved-complete",
+      "expressions": {
+        "smile": {
+          "promptDelta": "Rare gentle reserved smile; gray-violet eyes soften, lids and brows warm slightly, closed mouth becomes a small clearly readable smile; quiet trust.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-5243a1cf-1a33-4ca1-b1a9-4680303dcc85.png",
+          "candidate": "assets/candidates-v2/shenyue/smile-rgb.png",
+          "approved": "assets/characters-v2/shenyue/smile.png"
+        },
+        "sad": {
+          "promptDelta": "Private restrained sadness; eyes lower and look moist without tears, lids soften, brows slope upward toward center, closed lips form a delicate downward line.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-720b952a-4e42-40c8-82e1-c4f02dc350a8.png",
+          "candidate": "assets/candidates-v2/shenyue/sad-rgb.png",
+          "approved": "assets/characters-v2/shenyue/sad.png"
+        },
+        "angry": {
+          "promptDelta": "Calm firm disapproval; direct focused gray-violet gaze, subtly narrowed lids, brows drawn inward and short flat closed mouth; controlled factual correction.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-37dc15d0-f005-4a48-b6f3-66792e4ae954.png",
+          "candidate": "assets/candidates-v2/shenyue/angry-rgb.png",
+          "approved": "assets/characters-v2/shenyue/angry.png"
+        },
+        "surprised": {
+          "promptDelta": "Quiet meaningful surprise; gray-violet eyes slightly wider while preserving shape, brows raised and mouth only slightly open; recognition of her younger recorded voice.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-7e446228-d47d-486f-aa2e-689d69e5a020.png",
+          "candidate": "assets/candidates-v2/shenyue/surprised-rgb.png",
+          "approved": "assets/characters-v2/shenyue/surprised.png"
+        },
+        "shy": {
+          "promptDelta": "Subtle adult romantic shyness; faint low-saturation blush, softened slightly averted gaze and tiny hesitant smile. Final composite uses only the right-eye, mouth and right-cheek regions because the generated left-side hair crossing failed identity QA.",
+          "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-ef960643-4726-4022-843f-49e7e69649f1.png",
+          "composeRegions": "525,245,48,30;480,335,32,20;530,295,28,12",
+          "candidate": "assets/candidates-v2/shenyue/shy-rgb.png",
+          "approved": "assets/characters-v2/shenyue/shy.png"
+        }
+      }
+    }
+  }
+}

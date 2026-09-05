@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "summer-heart-equation",
+      "title": "夏日心跳方程式",
+      "path": "games/summer-heart-equation/",
+      "status": "playable",
+      "description": "约 30 分钟的海边电台恋爱故事，包含三条角色结局。"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "generator": "OpenAI built-in image generation",
+  "mode": "reference-conditioned generation; rain is a location-preserving edit of workshop",
+  "date": "2026-09-05",
+  "references": {
+    "linework": "../../../art-direction/references/manga-linework-reference.png",
+    "flatColor": "../../../art-direction/references/anime-flat-color-reference.jpg",
+    "worldContinuity": "../assets/backgrounds-v2/seaside.png"
+  },
+  "globalPrompt": "16:9 production-ready contemporary Japanese anime visual-novel background for fictional coastal town Hoshishio. Fine hand-drawn linework, mostly flat cel-color shapes, one hard-edged shadow family, minimal highlights, matte surfaces, restrained low-saturation blue-gray, warm cream and dusty apricot palette. Natural perspective. Keep the lower 28 percent calm and low-contrast for the dialogue box and leave clear sprite zones. No people, readable text, logos, watermark or border. Avoid photorealism, 3D rendering, Western comics, thick painterly oils, oily gloss, airbrushed gradients, excessive bloom, lens flare, fisheye and Dutch angles.",
+  "assets": [
+    {
+      "id": "seaside",
+      "path": "assets/backgrounds-v2/seaside.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-1def8612-19bc-48e1-ac0c-bee1e3cab82d.png",
+      "scenePrompt": "Quiet seaside road descending toward a small harbor at golden hour, old low houses and utility wires on the left, concrete seawall and deep blue sea on the right, distant breakwater and small white lighthouse, pale apricot late-summer clouds, wind-bent grass and faded blue road markings; nostalgic return after seven years."
+    },
+    {
+      "id": "station",
+      "path": "assets/backgrounds-v2/station.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-8922bcd6-e2bb-4090-a896-0eb42ddd25dc.png",
+      "scenePrompt": "Tiny unmanned coastal railway platform at sunset, one curving local track beside the sea, cream wooden shelter with weathered blue roof, simple bench, blank timetable frame, overhead wires and distant crossing signal, harbor and warm sea visible beyond; intimate childhood-friend reunion mood."
+    },
+    {
+      "id": "workshop",
+      "path": "assets/backgrounds-v2/workshop.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-eb50c409-53e1-489b-98ab-df71d34cab79.png",
+      "scenePrompt": "Lovingly maintained aging local radio workshop in a converted wooden coastal station: broad analog console, reel-to-reel deck, old microphones, shortwave receiver with amber dials, organized cables, tool drawers, shelves of tape boxes and a large window showing evening sea; technically credible, nostalgic, not abandoned or steampunk."
+    },
+    {
+      "id": "observatory",
+      "path": "assets/backgrounds-v2/observatory.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-2a1d19e4-a16b-41f3-9124-3a0dab445baf.png",
+      "scenePrompt": "Carefully maintained archive room inside an old coastal lighthouse: shelves of maritime logbooks, tape boxes, rolled charts and blank-labeled cases; desk with open sea chart, green reading lamp, pencils, cotton gloves and portable receiver; round window reveals indigo sea, distant harbor and lighthouse beam; safe, precise and contemplative."
+    },
+    {
+      "id": "festival",
+      "path": "assets/backgrounds-v2/festival.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-b7290022-af4c-4201-8369-a4144f03a2c2.png",
+      "scenePrompt": "Modest neighborhood summer-festival square beside the harbor at blue hour, warm paper lantern strings, simple wooden food stalls, abstract unreadable banner patterns, small broadcast stage with vintage microphone and speakers, fishing boats and distant lighthouse, a few puddles and offshore storm clouds; prepared but not crowded."
+    },
+    {
+      "id": "rain",
+      "path": "assets/backgrounds-v2/rain.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-9ca32a10-37be-4b1c-9c7a-cecc833633ee.png",
+      "scenePrompt": "Exact workshop layout transformed into typhoon night: grid power failed, dark diagonal rain outside, vague harbor lights and pale lightning, dim red emergency lamps, amber radio dials, one green status light, red recording light, raincoats and neat emergency battery connection; urgent but hopeful community broadcast."
+    },
+    {
+      "id": "dawn",
+      "path": "assets/backgrounds-v2/dawn.png",
+      "sourceOutput": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-0684a345-0c02-48f2-bd99-92bfbd5da49b.png",
+      "scenePrompt": "Post-storm dawn from a quiet hill path beside the old radio tower, looking over wet railings, harbor and sea; modest antenna mast and maintenance platform at left, distant white lighthouse, parted blue-gray storm clouds and pale peach horizon; tender and forward-looking ending atmosphere."
+    }
+  ],
+  "technical": { "format": "PNG", "width": 1672, "height": 941, "aspect": "16:9" }
+}

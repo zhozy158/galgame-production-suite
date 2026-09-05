@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-09-05T12:22:20.661Z",
+  "api": "https://api.xiaomimimo.com/v1",
+  "characters": [
+    {
+      "id": "linxia-v2",
+      "samples": [
+        {
+          "id": "signal-sad-youth-v2",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-youth-v2/linxia/01-signal-sad.wav",
+          "responseId": "6795ede3bf104d79882e12aa7145c117",
+          "transcript": null
+        }
+      ]
+    },
+    {
+      "id": "tangtao-v2",
+      "samples": [
+        {
+          "id": "station-welcome-youth-v2",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-youth-v2/tangtao/01-station-welcome.wav",
+          "responseId": "28a716a21f1049e29efe6f9284482ae8",
+          "transcript": null
+        }
+      ]
+    },
+    {
+      "id": "shenyue-v2",
+      "samples": [
+        {
+          "id": "archive-meeting-youth-v2",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-youth-v2/shenyue/01-archive-meeting.wav",
+          "responseId": "f998b9f98cfd4f36a3a41180f2bad05e",
+          "transcript": null
+        }
+      ]
+    }
+  ]
+}

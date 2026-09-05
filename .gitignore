@@ -1,0 +1,33 @@
+# Dependencies and build/cache output
+node_modules/
+dist/
+build/
+.cache/
+.tmp/
+tmp/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Runtime logs and local test artifacts
+*.log
+npm-debug.log*
+coverage/
+playwright-report/
+test-results/
+

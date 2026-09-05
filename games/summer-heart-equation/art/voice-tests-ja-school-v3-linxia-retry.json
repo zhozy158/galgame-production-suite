@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Linxia school-romance V3 retry without technical vocabulary or ellipsis.",
+  "generationLog": "art/voice-tests-ja-school-v3-linxia-retry-generation.json",
+  "characters": [
+    {
+      "id": "linxia-v3-retry",
+      "name": "林夏 V3 短句",
+      "voiceDesign": "成人女性だが、声質は高校卒業間近の十八歳くらいに聞こえる日本語アニメヒロイン。細く澄んだ明るい高めの声で、物静かな理系女子らしい。成熟した女性の低音、母性的な響き、太い胸声、かすれ、色気、アナウンサー口調は禁止。幼女声や作りすぎた萌え声にはせず、初恋らしい瑞々しさを保つ。",
+      "samples": [
+        {
+          "id": "reply-promise-school-v3",
+          "zh": "可以慢慢回复，但不许再次消失。",
+          "ja": "少しずつでもいい。でも、もう二度と、いなくならないで。",
+          "direction": "戻ってきた幼なじみに、小さな勇気を出して本音を伝える。高校生らしく若く澄んだ声。静かだが重くしない。一度だけ自然に読み、余計な台詞や長い沈黙を追加しない。",
+          "output": "assets/audio/voice-tests/ja-school-v3/linxia/02-reply-promise.wav"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-09-05T12:11:28.550Z",
+  "api": "https://api.xiaomimimo.com/v1",
+  "characters": [
+    {
+      "id": "linxia",
+      "samples": [
+        {
+          "id": "signal-sad",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja/linxia/01-signal-sad.wav",
+          "responseId": "33d26dd356b74ef282915dba646ca9b4",
+          "transcript": null
+        },
+        {
+          "id": "antenna-regret",
+          "model": "mimo-v2.5-tts-voiceclone",
+          "output": "assets/audio/voice-tests/ja/linxia/02-antenna-regret.wav",
+          "responseId": "ed23c27c043c4e2c8ff753afb6398683",
+          "transcript": null
+        },
+        {
+          "id": "ending-shy",
+          "model": "mimo-v2.5-tts-voiceclone",
+          "output": "assets/audio/voice-tests/ja/linxia/03-ending-shy.wav",
+          "responseId": "30797a0122484e478811457444a0555c",
+          "transcript": null
+        }
+      ]
+    },
+    {
+      "id": "tangtao",
+      "samples": [
+        {
+          "id": "station-welcome",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja/tangtao/01-station-welcome.wav",
+          "responseId": "bbde8e7b092c442483e233ab299a93f1",
+          "transcript": null
+        },
+        {
+          "id": "offer-soda",
+          "model": "mimo-v2.5-tts-voiceclone",
+          "output": "assets/audio/voice-tests/ja/tangtao/02-offer-soda.wav",
+          "responseId": "c28acaab2b864260a779442263b22cc6",
+          "transcript": null
+        },
+        {
+          "id": "ending-hand",
+          "model": "mimo-v2.5-tts-voiceclone",
+          "output": "assets/audio/voice-tests/ja/tangtao/03-ending-hand.wav",
+          "responseId": "b204a2f021d044638ced013b6eb9de33",
+          "transcript": null
+        }
+      ]
+    },
+    {
+      "id": "shenyue",
+      "samples": [
+        {
+          "id": "archive-meeting",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja/shenyue/01-archive-meeting.wav",
+          "responseId": "69c5cc8c4b5742d6ad4a0c69470ca05d",
+          "transcript": null
+        },
+        {
+          "id": "meaning-of-silence",
+          "model": "mimo-v2.5-tts-voiceclone",
+          "output": "assets/audio/voice-tests/ja/shenyue/02-meaning-of-silence.wav",
+          "responseId": "0534e0db93ba4a2cbe00ab79cdcf0901",
+          "transcript": null
+        },
+        {
+          "id": "ending-save",
+          "model": "mimo-v2.5-tts-voiceclone",
+          "output": "assets/audio/voice-tests/ja/shenyue/03-ending-save.wav",
+          "responseId": "73e61961e77947a2bfb7eafe8b888cae",
+          "transcript": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Tang Tao younger voice retry using a short natural line after the energetic station call was abnormally extended.",
+  "generationLog": "art/voice-tests-ja-youth-v2-tang-retry-generation.json",
+  "characters": [
+    {
+      "id": "tangtao-v2-retry",
+      "name": "唐桃 V2 短句",
+      "voiceDesign": "十八歳から二十歳くらいの若い成人女性の日本語アニメヒロイン声。軽く明るい中高音で、笑顔と照れがすぐ声に出る。快活で少しツンデレ。成熟した母性的な響き、太い胸声、かすれ声、落ち着きすぎた接客口調は禁止。若々しく自然な現代日本語。",
+      "samples": [
+        {
+          "id": "offer-soda-youth-v2",
+          "zh": "闭嘴，喝你的。",
+          "ja": "もう、黙って飲みなさい。",
+          "direction": "幼なじみに照れ隠しで飲み物を差し出す。短く軽快に、少し強気だが最後は笑っている。余計な台詞、笑い声、繰り返し、長い沈黙を追加しない。",
+          "output": "assets/audio/voice-tests/ja-youth-v2/tangtao/02-offer-soda.wav"
+        }
+      ]
+    }
+  ]
+}

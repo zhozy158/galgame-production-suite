@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10182e">
+  <title>夏日心跳方程式</title>
+  <link rel="stylesheet" href="../../framework/styles/vn-core.css?v=1.2.2">
+  <link rel="stylesheet" href="theme.css?v=1.2.0">
+</head>
+<body>
+  <main id="app" class="app" aria-live="polite">
+    <section id="title-screen" class="screen title-screen active">
+      <img class="cover" src="assets/cg-v2/cover.png" alt="《夏日心跳方程式》封面">
+      <div class="title-shade"></div>
+      <div class="title-panel">
+        <p class="eyebrow">ORIGINAL VISUAL NOVEL</p>
+        <h1>夏日心跳方程式</h1>
+        <p class="tagline">有些回声，只有在愿意停下时才听得见。</p>
+        <nav class="title-actions" aria-label="主菜单">
+          <button data-action="new-game" class="primary">开始游戏</button>
+          <button data-action="continue">继续游戏</button>
+          <button data-action="open-load">读取存档</button>
+          <button data-action="open-gallery">回忆相册</button>
+          <button data-action="open-settings">设置</button>
+        </nav>
+        <p class="title-meta">约 30 分钟 · 三条情感结局 · 自动保存</p>
+      </div>
+    </section>
+
+    <section id="game-screen" class="screen game-screen">
+      <div id="scene" class="scene bg-seaside" tabindex="0">
+        <div class="sky-glow"></div><div class="scene-grain"></div>
+        <div id="chapter-card" class="chapter-card hidden"></div>
+        <div id="sprites" class="sprites" aria-hidden="true"></div>
+        <div class="topbar">
+          <button data-action="title" title="返回标题">☰</button>
+          <span id="chapter-label">序章</span>
+          <span class="spacer"></span>
+          <button data-action="quick-save">快速保存</button>
+          <button data-action="quick-load">快速读取</button>
+        </div>
+        <div id="choices" class="choices hidden"></div>
+        <div id="textbox" class="textbox">
+          <div class="name-row"><span id="speaker" class="speaker"></span><span id="mode-indicator"></span></div>
+          <p id="dialogue" class="dialogue"></p>
+          <span class="next-indicator">◆</span>
+          <div class="controls">
+            <button data-action="backlog">履历</button>
+            <button data-action="save">保存</button>
+            <button data-action="load">读取</button>
+            <button data-action="auto">自动</button>
+            <button data-action="skip">快进</button>
+            <button data-action="replay-voice">重播语音</button>
+            <button data-action="hide-ui">隐藏界面</button>
+            <button data-action="settings">设置</button>
+          </div>
+        </div>
+        <button id="restore-ui" class="restore-ui hidden" data-action="show-ui">显示界面</button>
+      </div>
+    </section>
+
+    <section id="ending-screen" class="screen ending-screen">
+      <div class="ending-card">
+        <p class="eyebrow">ENDING UNLOCKED</p>
+        <h2 id="ending-title"></h2>
+        <p id="ending-copy"></p>
+        <div class="ending-actions">
+          <button class="primary" data-action="ending-title">返回标题</button>
+          <button data-action="ending-gallery">查看相册</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card">
+      <header><h2 id="modal-title"></h2><button data-action="close-modal" aria-label="关闭">×</button></header>
+      <div id="modal-body" class="modal-body"></div>
+    </div>
+  </div>
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="game/config.js?v=1.2.0"></script>
+  <script src="game/story.js?v=1.2.0"></script>
+  <script src="game/voice-map.js?v=1.3.0"></script>
+  <script src="../../framework/engine/vn-engine.js?v=1.3.0"></script>
+  <script src="game/app.js?v=1.3.0"></script>
+</body>
+</html>

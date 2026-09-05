@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-09-05T12:23:46.073Z",
+  "api": "https://api.xiaomimimo.com/v1",
+  "characters": [
+    {
+      "id": "tangtao-v2-retry",
+      "samples": [
+        {
+          "id": "offer-soda-youth-v2",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-youth-v2/tangtao/02-offer-soda.wav",
+          "responseId": "bf89d8dce338438bbdd17b16b9fc5f3d",
+          "transcript": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "workflow": "Every character-containing image is conditioned on the approved V2 character references. Event scenes use first-person framing or hide the protagonist's face. Each prompt reserves the lower 24 percent for the dialogue box and forbids readable text.",
+  "globalPrompt": "16:9 Japanese visual-novel event CG, polished contemporary anime illustration, clean confident linework, restrained cel shading, matte skin, elegant faces, believable slim adult proportions, cinematic but natural light, cohesive seaside-town palette. Match every referenced heroine exactly: face shape, bangs grouping, hair accessory side and placement, iris color, clothing layers, silhouette and body proportions. No photorealism, no 3D, no painterly oil texture, no wet or glossy skin, no western-comic anatomy, no character redesign, no duplicated person, no extra fingers, no readable text, logo or watermark. Keep the lower 24 percent free of indispensable faces and clues for the dialogue UI.",
+  "assets": [
+    {
+      "id": "reunion",
+      "references": ["assets/characters-v2/tangtao/base-neutral.png", "assets/backgrounds-v2/station.png"],
+      "prompt": "POV reunion on a quiet seaside railway platform in late-summer afternoon. Tang Tao runs toward the viewer and offers a cold peach ramune bottle, bright teasing welcome in her eyes; luggage and receding tracks support the story. Do not show the protagonist's face.",
+      "sourceOutput": "exec-c8729b1d-5db0-45f8-b5f1-36e67578d7e6.png",
+      "approved": "assets/cg-v2/reunion.png"
+    },
+    {
+      "id": "hidden-tape",
+      "references": ["assets/characters-v2/linxia/base-neutral.png", "assets/characters-v2/tangtao/base-neutral.png", "assets/characters-v2/shenyue/base-neutral.png", "assets/backgrounds-v2/workshop.png"],
+      "prompt": "Inside the old coastal radio workshop at dawn, the restored reel-to-reel tape begins playing the forgotten teenage broadcast. Lin Xia adjusts the console, Tang Tao leans in with startled warmth, Shen Yue holds the archive ledger and recognizes her younger voice. The glowing tape deck is the visual focus; intimate shared revelation, no protagonist face.",
+      "sourceOutput": "exec-8fd8651c-c07c-41aa-9be9-69b37d6fe9fa.png",
+      "approved": "assets/cg-v2/hidden-tape.png"
+    },
+    {
+      "id": "lighthouse-rescue",
+      "references": ["assets/characters-v2/linxia/base-neutral.png", "assets/characters-v2/tangtao/base-neutral.png", "assets/characters-v2/shenyue/base-neutral.png"],
+      "prompt": "Urgent coordinated rescue inside the old lighthouse radio room before a storm. Lin Xia at viewer-left wears headphones and calls the stranded boat through a portable radio; Tang Tao at center connects a field telephone and relay power; Shen Yue at viewer-right cross-checks three paper sea charts and her archive ledger. Sweeping lighthouse beam, sea and rain visible outside, competent teamwork rather than panic, protagonist represented only by a foreground hand or equipment.",
+      "sourceOutput": "exec-f5fff3bb-b09b-4fa4-9fa8-d3d8724dc40b.png",
+      "approved": "assets/cg-v2/lighthouse-rescue.png"
+    },
+    {
+      "id": "storm-broadcast",
+      "references": ["assets/characters-v2/linxia/base-neutral.png", "assets/characters-v2/tangtao/base-neutral.png", "assets/characters-v2/shenyue/base-neutral.png", "assets/backgrounds-v2/rain.png"],
+      "prompt": "Power-outage live broadcast in the old coastal station at night. Red recording lamp and battery-powered console glow against diagonal rain. Lin Xia raises the audio fader, Tang Tao closes the rattling window after delivering radios around town, Shen Yue spreads listener messages and blank script sheets. A microphone in the foreground marks the protagonist's POV; hopeful warmth connects the dark town.",
+      "sourceOutput": "exec-d666a032-8f5c-40de-96e4-30923f3425aa.png",
+      "approved": "assets/cg-v2/storm-broadcast.png"
+    },
+    {
+      "id": "ending-linxia",
+      "references": ["assets/characters-v2/linxia/base-neutral.png", "assets/backgrounds-v2/dawn.png"],
+      "prompt": "Romantic first-person dawn ending on the transmitter platform above the sea. Lin Xia, exact approved design and outfit, shy tear-bright smile, reaches out and links her little finger with the viewer's hand. Radio antenna, waking town and pale sunrise behind her; tender restraint, no protagonist face.",
+      "sourceOutput": "exec-fe2a6af7-4137-48b3-b284-e92d6cb5acc4.png",
+      "approved": "assets/cg-v2/ending-linxia.png"
+    },
+    {
+      "id": "ending-tangtao",
+      "references": ["assets/characters-v2/tangtao/base-neutral.png", "assets/backgrounds-v2/dawn.png"],
+      "prompt": "Romantic first-person dawn ending on a rain-wet seaside slope beside a vending machine. Tang Tao, exact approved design and outfit, slips one cool hand into the viewer's hand while raising a peach ramune bottle toward the brightening sky with the other. Brave, playful and slightly shy expression; no protagonist face.",
+      "sourceOutput": "exec-92a6b308-3ca4-4703-a56b-82586f8c12be.png",
+      "approved": "assets/cg-v2/ending-tangtao.png"
+    },
+    {
+      "id": "ending-shenyue",
+      "references": ["assets/characters-v2/shenyue/base-neutral.png", "assets/backgrounds-v2/dawn.png"],
+      "prompt": "Romantic first-person dawn ending on the rain-wet archive steps near the lighthouse. Shen Yue, exact approved design with only one small side braid on viewer-right, violet eyes and unchanged layered outfit, holds a blank dark ledger and gently takes the viewer's hand. Quiet soft smile and silver morning light; no protagonist face, no writing on the page.",
+      "sourceOutput": "exec-cf9512a9-5038-4cd7-ab24-71085fc161b6.png",
+      "rejectedCandidate": "assets/candidates-v2/cg-ending-shenyue-braid-drift.png",
+      "rejectionReason": "The first candidate added a crown-like symmetric braid and changed the locked hairstyle.",
+      "approved": "assets/cg-v2/ending-shenyue.png"
+    },
+    {
+      "id": "cover",
+      "references": ["assets/characters-v2/linxia/base-neutral.png", "assets/characters-v2/tangtao/base-neutral.png", "assets/characters-v2/shenyue/base-neutral.png", "assets/backgrounds-v2/seaside.png"],
+      "prompt": "Final 16:9 key visual and title-screen cover for Summer Heartbeat Equation. Scenic late-summer sunset over the hillside coastal town, sea, lighthouse and radio antennas. Group the three exact approved heroines in the right 58 percent: Lin Xia centered with portable radio, Tang Tao beside her raising peach soda, Shen Yue holding the archive ledger. Preserve each locked identity and outfit. Leave the left 38 percent calm and uncluttered as a title-safe area. Warm reunion, radio waves and future-facing mood; no printed title or text.",
+      "sourceOutput": "exec-885bcb3a-acd3-4e55-bef3-39f14fc2492c.png",
+      "approved": "assets/cg-v2/cover.png"
+    }
+  ]
+}

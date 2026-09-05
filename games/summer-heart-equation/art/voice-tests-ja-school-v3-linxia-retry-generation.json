@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-09-05T12:35:00.662Z",
+  "api": "https://api.xiaomimimo.com/v1",
+  "characters": [
+    {
+      "id": "linxia-v3-retry",
+      "samples": [
+        {
+          "id": "reply-promise-school-v3",
+          "model": "mimo-v2.5-tts-voicedesign",
+          "output": "assets/audio/voice-tests/ja-school-v3/linxia/02-reply-promise.wav",
+          "responseId": "b94faa82623b494b89a45333ac7fa711",
+          "transcript": null
+        }
+      ]
+    }
+  ]
+}

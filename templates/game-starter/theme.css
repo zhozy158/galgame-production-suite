@@ -1,0 +1,3 @@
+:root { --pink:#d890aa; --gold:#ecd19c; --accent:#9faee7; }
+.starter-cover { position:absolute; inset:0; background:linear-gradient(145deg,#222d52,#73556c 55%,#d29a91); }
+.bg-default { --bg-layer:linear-gradient(160deg,#5c6f9c,#b98f9c 60%,#263650); }

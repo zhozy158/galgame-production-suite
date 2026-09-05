@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "generator": "OpenAI built-in image generation",
+  "mode": "full coherent reference-image redraw; no facial-region compositing",
+  "date": "2026-09-06",
+  "masterPrompt": "Use the approved base-neutral sprite as the only identity and layout master. Redraw the entire sprite continuously. Lock face shape, head scale, eye color/design, every bang group and hair crossing, accessory positions, all outfit layers/seams, body proportions, pose, hands, silhouette, canvas size and crop. Change only the requested expression. Clean Japanese visual-novel anime linework, flat cel color, one crisp shadow and matte skin. No local face patch, collage, seam, halo, misalignment, glossy/oily/painterly/3D rendering, gradients, Western-comic anatomy, text, watermark or extra accessories.",
+  "transparency": "The generator returned a visually transparent checkerboard baked into RGB. A connected near-white border/background removal was applied to the complete generated image; no facial compositing was used.",
+  "replacements": [
+    { "character": "linxia", "expression": "sad", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-e1b2377b-1804-4224-a003-68175496d753.png", "emotion": "quiet sadness and restrained worry; vulnerable moist eyes without tears; tiny tense downward mouth" },
+    { "character": "tangtao", "expression": "sad", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-924aabb3-f284-46ce-b893-c61aee21883a.png", "emotion": "vulnerable quiet sadness behind her usual energy; downcast gaze; small uneven mouth" },
+    { "character": "tangtao", "expression": "surprised", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-cbe6f61e-8999-47be-8de1-019447621420.png", "emotion": "lively believable surprise; moderately wider eyes; raised brows; small rounded mouth" },
+    { "character": "tangtao", "expression": "shy", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-a06a657d-bac1-4d5c-a67e-0f93af65516c.png", "emotion": "flustered romantic shyness; light blush; slightly averted gaze; embarrassed smile" },
+    { "character": "shenyue", "expression": "sad", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-7741e993-73a8-4c89-9383-d762b7b7d531.png", "emotion": "private restrained sadness; lowered gaze; gently raised inner brows; no tears" },
+    { "character": "shenyue", "expression": "shy", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-cc08e616-936c-4d5d-a2f1-bded996c97bd.png", "emotion": "subtle romantic shyness; faint blush; slightly averted gaze; tiny hesitant smile" },
+    { "character": "shenyue", "expression": "angry", "source": "C:/Users/DELL/.codex/generated_images/01a06d8c-05d9-7a10-aed3-d10281bcf827/exec-2aa75ff3-7ef9-4c66-9a7b-408c1374f601.png", "emotion": "calm firm disapproval; focused gaze; subtly narrowed lids; flat closed mouth" }
+  ],
+  "legacyBackup": "assets/legacy-composite-v2/"
+}
